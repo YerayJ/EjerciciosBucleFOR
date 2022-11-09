@@ -3,7 +3,7 @@ package ejercicios;
 import java.util.Scanner;
 
 /*
- * Escribir todos los múltiplos de 7 menores que 100.
+ * Realiza un programa que cuente los múltiplos de 3 desde el 1 hasta un número que introducimos por teclado.
  */
 
 public class Ejercicio4 {
