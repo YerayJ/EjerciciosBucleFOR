@@ -28,5 +28,8 @@ public class Ejercicio7 {
         // Mostramos la suma de todos los números
         System.out.println("La suma de todos los número es: " + factorial);
 
+        // Cerramos el escaner
+        key.close();
+
     }
 }
