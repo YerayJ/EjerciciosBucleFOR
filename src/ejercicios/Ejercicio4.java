@@ -22,7 +22,7 @@ public class Ejercicio4 {
         // Creamos el bucle for. Iniciamos la i como 3, mientras sea la i menor que la
         // variable num iremos sumando de 3 en 3 para obtener los múltiplos de 3.
         for (int i = 3; i <= num; i += 3) {
-            // Imprimimos siempre la variable i.
+            // Sumamos a la variable contador uno por cada vuelta.
             contador++;
         }
 
